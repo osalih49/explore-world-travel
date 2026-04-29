@@ -1,0 +1,53 @@
+Explore World Travel - Final Project Write-Up
+Student: Omar Salih
+Course: CIS 126
+
+TOPIC APPROVAL DISCUSSION
+The purpose of this website is to introduce visitors to travel destinations in Africa and the Middle East. The site focuses on Morocco, Egypt, Kenya, and Saudi Arabia. I want the website to help people get basic travel ideas, compare estimated costs, and learn what each destination has to offer.
+
+The intended audience is young adults and beginner travelers, mostly ages 18 to 35, who are interested in culture, history, food, nature, and international travel. The content includes destination pages, travel images, estimated prices, travel tips, and a contact form.
+
+Related websites:
+1. Lonely Planet
+2. Expedia
+
+PLANNING ANALYSIS SHEET
+
+Web Site Goal:
+The goal of this website is to provide a simple and visually appealing travel guide for selected countries in Africa and the Middle East.
+
+What results do I want to see?
+I want visitors to understand what each country offers, compare basic travel costs, and contact the website owner with travel questions.
+
+Working Titles of Pages:
+- Home
+- Morocco
+- Egypt
+- Kenya
+- Saudi Arabia
+- Travel Prices
+- Contact
+
+What information do I need?
+- Destination summaries written in my own words
+- Travel images stored in the images folder
+- Estimated travel prices for the table page
+- A form processing service for the contact page
+- External travel resource link such as Lonely Planet
+
+SITE MAP
+Home
+|-- Morocco
+|-- Egypt
+|-- Kenya
+|-- Saudi Arabia
+|-- Travel Prices
+|-- Contact
+
+WIREFRAME DESCRIPTION
+Each page uses a consistent layout. The top has a banner/logo area, followed by the navigation menu. The center of the page has the main content. The bottom has the footer with contact information and an external travel link.
+
+CLASS PRESENTATION NOTES
+My project is a travel website called Explore World Travel. I chose this topic because I wanted to create a site that connects travel, culture, and different countries. I used a consistent header, navigation menu, external CSS file, destination cards, a table for travel prices, and a contact form.
+
+One challenge was keeping the layout consistent on every page. I solved this by reusing the same header, navigation, and footer structure. Another challenge was making the site look clean without making it too complicated, so I used simple colors, cards, spacing, and CSS hover transitions.
